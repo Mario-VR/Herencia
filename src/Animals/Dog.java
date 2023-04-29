@@ -11,4 +11,5 @@ public class Dog extends Animal {
         String a = "El animal " + this.getName() + " dice: Guauuu";
         return a;
     }
+
 }

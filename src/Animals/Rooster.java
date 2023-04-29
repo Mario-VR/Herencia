@@ -11,4 +11,5 @@ public class Rooster extends Animal {
         String a = "El animal " + this.getName() + " dice: Kikiriki ";
         return a;
     }
+
 }
