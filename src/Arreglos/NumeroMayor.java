@@ -27,5 +27,6 @@ public class NumeroMayor {
 
         System.out.println("El número mayor es: " + mayor);
         System.out.println("El número menor es: " + menor);
+
     }
 }
