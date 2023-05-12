@@ -31,6 +31,7 @@ public class Volado {
                     volado[SOL]+=1;
                 }*/
 
+
         }
         System.out.println("Cayo: " + volado[AQUILA] + " veces Aguila");
         System.out.println("Cayo: " + volado[SOL] + " veces Sol");
