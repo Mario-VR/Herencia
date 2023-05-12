@@ -23,7 +23,6 @@ public class CalidadComida {
 
         for (int i = 0; i < Calificaciones.length; i++) {
             System.out.println(Calificaciones[i] + " Personas votaron "+ nombresCalificaciones[i]);
-
         }
     }
 }
