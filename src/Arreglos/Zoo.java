@@ -10,5 +10,6 @@ public class Zoo {
 
         System.out.println("Mi zoologico tiene: "+zoo.length+" animales");
         System.out.println("Los cuales son: ");
+
     }
 }
