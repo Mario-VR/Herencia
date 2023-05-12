@@ -28,6 +28,7 @@ public class ArraysApp {
             System.out.println("Si hay un :"+animal);
         }else {
             System.out.println("No hay un: "+animal);
+
         }
     }
 }
