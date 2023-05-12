@@ -14,7 +14,6 @@ public class Sumatorias {
         int [] ordenados=array;
 
 
-
         for (int i = 0; i < array.length; i++) {
 
             System.out.println("Ingrese el numero: ");
